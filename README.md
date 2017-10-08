@@ -1,5 +1,7 @@
 # Java File Converter
 Convert multiple types of images, HTML and PDF files to other formats, edit them in various ways and manage downloads, with this versatile utility
+
+![Java file converter](http://www.freewarefiles.com/screenshot/cosmofile.jpg?raw=true "Java file converter")
 # Description
 
 CosmoFile is a straightforward application, designed to help you convert PDF and HTML files, as well as a wide array of image types to other formats. It also offers a set of basic image editing tools, enables you to exact or replace content in PDF files and includes a built-in download manager.
